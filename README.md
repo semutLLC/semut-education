@@ -23,3 +23,11 @@ Topics include:
 This repository grows alongside the Semut ecosystem. As new tools, workflows, and practices emerge, the educational materials evolve with them.
 
 The goal is not simply to teach programming, but to help more people become effective contributors to real software projects.
+
+## Status
+
+This repository is an active research project.
+
+The ideas described here are hypotheses under exploration and may evolve as implementations, experiments, and community feedback provide new evidence.
+
+Semut documents both successful and unsuccessful ideas as part of the project's long-term evolution.
